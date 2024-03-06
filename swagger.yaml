@@ -1,4 +1,4 @@
-openapi: 3.0.0
+openapi: 2.0
 info:
   title: HPE Lighthouse Catalog API
   description: This API group retrives modules, instances and also properties of instances like instanceTypeFamilies and workloads.
